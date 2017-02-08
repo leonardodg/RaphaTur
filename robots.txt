@@ -1,0 +1,11 @@
+# robots.txt - Leonardo Della Giustina
+User-agent: *
+Disallow: 
+Disallow: /css
+Disallow: /fonts
+Disallow: /font-awesome
+Disallow: /js
+Disallow: /libs
+
+Disallow: /Email.html
+Disallow: /sendmail.php
